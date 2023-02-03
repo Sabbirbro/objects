@@ -1,9 +1,9 @@
-// const friends = [12, 13, 43, 32, 45];
+const friends = [12, 13, 43, 32, 45];
 
-// const partial = friends.slice( 3 ,5 )
+const partial = friends.slice( 3 ,5 )
 
-// console.log(partial);
-// console.log(friends);
+console.log(partial);
+console.log(friends);
 
 
 
